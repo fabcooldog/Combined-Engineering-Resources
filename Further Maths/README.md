@@ -44,7 +44,7 @@ Limiting value of a sequence as n -> inf.
 Including interpretation of the gradient and y-intercept from the equation   
 3.6 Draw a straight line from given information   
 
-####Co&ouml;rdinate Geometry of Circles    
+####Coordinate Geometry of Circles    
 3.7 Understand that the equation of a circle, centre (0, 0), radius _r_ is _x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>_ centre   
 The application of circle geometry facts where appropriate: e.g. the angle in a semi-circle is 90°, the perpendicular from the centre to a chord bisects the chord, the angle between tangent and radius is 90°   
 3.8 Understand that _(x – a)<sup>2</sup> + (y – b)<sup>2</sup> = r<sup>2</sup>_ is the equation of a circle with centre (a, b) and radius _r_   
